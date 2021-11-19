@@ -32,3 +32,8 @@ h1{
     color: white
 }
 a {text-decoration: none; color:inherit}
+html {
+        -webkit-text-size-adjust: auto;
+        -moz-text-size-adjust: auto;
+        -ms-text-size-adjust: auto;
+}
