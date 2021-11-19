@@ -25,6 +25,7 @@ u{
 h1{
     border:solid rgb(214, 28, 75);
     height: 14vw;
+    
 }
 #madeBy{
     
@@ -33,8 +34,3 @@ h1{
     color: white
 }
 a {text-decoration: none; color:inherit}
-html {
-        -webkit-text-size-adjust: auto;
-        -moz-text-size-adjust: auto;
-        -ms-text-size-adjust: auto;
-}
