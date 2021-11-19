@@ -10,7 +10,7 @@ body{
     align-items: center;
 }
 u{
-    font-size: 10vw;
+    font-size: 7vw;
     font-family:fantasy;
     color: rgb(214, 28, 75);
 }
@@ -18,9 +18,9 @@ u{
     color:rgb(255, 255, 255);
     display: flex;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 7vw;
+    font-size: 4vw;
     justify-content: space-around;
-    margin-top: 25vh;
+    margin-top: 22vh;
 }
 h1{
     border:solid rgb(214, 28, 75);
